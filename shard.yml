@@ -1,0 +1,13 @@
+name: crystal-quine
+version: 0.1.0
+
+authors:
+  - monsterkrampe
+
+targets:
+  crystal-quine:
+    main: src/crystal-quine.cr
+
+crystal: 0.26.1
+
+license: MIT
